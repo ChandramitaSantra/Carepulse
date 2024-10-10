@@ -21,7 +21,7 @@
 
 
 
-<a href="https://youtu.be/lEflo_sc82g?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+
 
 
 - Next.js
@@ -29,7 +29,7 @@
 - Typescript
 - TailwindCSS
 - ShadCN
-- Twilio
+
 
 ## <a name="features">🔋 Features</a>
 
